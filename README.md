@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm [Your Name], a creative Frontend Developer crafting engaging web experiences. Proficient in HTML, CSS, and JavaScript. Passionate about clean code, design, and user-centric development. Let's build together!
+👋 Hi, I'm Konduru Sai, a creative Frontend Developer crafting engaging web experiences. Proficient in HTML, CSS, and JavaScript. Passionate about clean code, design, and user-centric development. Let's build together!
 
 
 ## 🌐 Socials:
