@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Konduru Sai, a creative Frontend Developer crafting engaging web experiences. Proficient in HTML, CSS, and JavaScript. Passionate about clean code, design, and user-centric development. Let's build together!
+Hi, I'm Konduru Sai — a creative Full-Stack Developer crafting smooth and engaging web experiences. Proficient in HTML, CSS, JavaScript, React, Node.js, and MongoDB, I love turning ideas into scalable and user-focused applications. Passionate about clean code, modern design, and building products that make an impact. Always learning, always building — let’s create something amazing together!
 
 
 ## 🌐 Socials:
